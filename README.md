@@ -1,1 +1,1 @@
-# ECS152
+# ECS152 Project 3
